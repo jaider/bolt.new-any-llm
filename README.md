@@ -3,6 +3,10 @@
 ## Running fine using ollama.
 ![image](https://github.com/user-attachments/assets/95da26af-0cc1-42fb-b411-18756ab4c2d7)
 
+### Ollama models setup is here
+![image](https://github.com/user-attachments/assets/9299d7ce-ba1a-4bdc-a3f0-1e234b9c1da2)
+
+
 ## Trying LM Studio but does not work.
 `> lms server start --cors=true`
 ![image](https://github.com/user-attachments/assets/4d991459-769c-43ea-bdf5-cb2074b7ec0b)
