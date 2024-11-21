@@ -8,6 +8,8 @@
 ![image](https://github.com/user-attachments/assets/4d991459-769c-43ea-bdf5-cb2074b7ec0b)
 ![image](https://github.com/user-attachments/assets/d44795a6-e961-48b2-a454-89ffcf1de5ce)
 ![image](https://github.com/user-attachments/assets/bf0748c8-2634-4661-91bc-ae6a3c0f6036)
+but it seems working using curl
+![image](https://github.com/user-attachments/assets/9db78f79-1b5c-4580-b400-bb07b793bca0)
 
 
 ## Docker is running fine:
