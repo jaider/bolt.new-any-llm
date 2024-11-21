@@ -1,3 +1,25 @@
+# Jaider
+
+## Running fine using ollama.
+![image](https://github.com/user-attachments/assets/95da26af-0cc1-42fb-b411-18756ab4c2d7)
+
+## Trying LM Studio but does not work.
+`> lms server start --cors=true`
+![image](https://github.com/user-attachments/assets/4d991459-769c-43ea-bdf5-cb2074b7ec0b)
+![image](https://github.com/user-attachments/assets/d44795a6-e961-48b2-a454-89ffcf1de5ce)
+![image](https://github.com/user-attachments/assets/bf0748c8-2634-4661-91bc-ae6a3c0f6036)
+
+
+## Docker is running fine:
+cd `C:\Users\Jaider\bolt.new-any-llm`
+and run the commands mentioned in this doc for development.
+![image](https://github.com/user-attachments/assets/21f2afdc-8237-4d6f-8449-ca113d5839d6)
+
+
+# -----------------------------------------
+
+
+
 [![Bolt.new: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.new)
 
 # Bolt.new Fork by Cole Medin - oTToDev
